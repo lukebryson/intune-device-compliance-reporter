@@ -9,11 +9,11 @@ This project automates the retrieval, processing, and reporting of Windows and i
 - (Optional) Email notifications for non-compliant devices
 
 ## 💼 Purpose
-This project was created as part of my Level 4 Software Developer apprenticeship to meet the A1.4 Apply stage. It aligns with business needs at Assura by reducing manual effort and improving visibility of device compliance.
+This project was created as part of my Level 4 Software Engineer apprenticeship to meet the A1.4 Apply stage. It aligns with business needs at Assura by reducing manual effort and improving visibility of device compliance.
 
 ## 🛠 Technologies Used
 - Python
-- SQLite / PostgreSQL
+- SQLite
 - Microsoft Graph API
 - Pandas & Matplotlib (for data analysis & reporting)
 
