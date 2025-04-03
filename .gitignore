@@ -6,7 +6,7 @@ __pycache__/
 .venv/
 env/
 
-# Environment variables
+# Ignore environment variables
 .env
 
 # Ignore virtual environment folder
@@ -18,3 +18,9 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+
+# Ignore device output
+devices.json
+
+# Ignore screenshots
+Screenshots/
