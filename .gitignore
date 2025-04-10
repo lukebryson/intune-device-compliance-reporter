@@ -20,7 +20,11 @@ Thumbs.db
 .vscode/
 
 # Ignore device output
-devices.json
+cleaned_devices.json
 
 # Ignore screenshots
 Screenshots/
+
+# Ignore all SQLite database files
+*.db
+
