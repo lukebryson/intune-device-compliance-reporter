@@ -27,4 +27,5 @@ Screenshots/
 
 # Ignore all SQLite database files
 *.db
-
+*.db-journal
+*.sqlite3
