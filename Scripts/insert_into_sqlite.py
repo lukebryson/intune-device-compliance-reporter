@@ -14,7 +14,8 @@ cursor = conn.cursor()
 # Create the table (if it doesn't already exist)
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS device_compliance (
-    deviceName TEXT PRIMARY KEY,
+    deviceId TEXT PRIMARY KEY,
+    deviceName TEXT,
     emailAddress TEXT,
     operatingSystem TEXT,
     osVersion TEXT,
@@ -32,13 +33,14 @@ CREATE TABLE IF NOT EXISTS device_compliance (
 for device in devices:
     cursor.execute(f"""
     INSERT OR REPLACE INTO device_compliance (
-        deviceName, emailAddress, operatingSystem, osVersion,
+        deviceId, deviceName, emailAddress, operatingSystem, osVersion,
         complianceState, isCompliant, totalStorageBytes, freeStorageBytes,
         freeStoragePct, lowStorage, lastSyncDateTime
     ) VALUES (
-        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
     );
     """, (
+        device["deviceId"],
         device["deviceName"],
         device["emailAddress"],
         device["operatingSystem"],

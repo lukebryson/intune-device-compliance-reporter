@@ -15,8 +15,9 @@ def transform_device(device):
         total, free, free_pct = 0, 0, None
 
     return {
-        "emailAddress": device.get("emailAddress"),
-        "deviceName": device.get("deviceName"),
+        "deviceId": device.get("id"),
+        "deviceName": device.get("deviceName") or "unknown",
+        "emailAddress": device.get("emailAddress") or "unknown",
         "operatingSystem": device.get("operatingSystem"),
         "osVersion": device.get("osVersion"),
         "complianceState": device.get("complianceState"),
