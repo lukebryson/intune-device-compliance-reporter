@@ -10,7 +10,7 @@ WHERE complianceState != 'compliant';
 
 SELECT deviceName, emailAddress, freeStoragePct, totalStorageBytes, freeStorageBytes
 FROM device_compliance
-WHERE lowStorage = 1;
+WHERE lowStorage = 1; AND operatingSystem = 'Windows';
 --  Helps proactively flag devices at risk of performance issues.
 
 SELECT deviceName, osVersion, emailAddress
@@ -22,3 +22,8 @@ SELECT deviceName, emailAddress, osVersion
 FROM device_compliance
 WHERE operatingSystem = 'iOS';
 -- Separates mobiles from Windows devices.
+
+SELECT emailAddress AS "User", deviceName AS "Device Name", lastSyncDateTime, operatingSystem AS "Operating System", complianceState AS "Compliance State"
+FROM device_compliance
+WHERE lowStorage = 1 AND operatingSystem = 'Windows';
+-- This query retrieves the device ID, device name, email address, operating system, and compliance state of compliant Windows devices.
