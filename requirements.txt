@@ -1,6 +1,4 @@
 python-dotenv
 requests
-pandas
-matplotlib
 sqlite-utils
 sqlite3

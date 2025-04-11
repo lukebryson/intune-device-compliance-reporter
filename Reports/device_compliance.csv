@@ -1,0 +1,180 @@
+deviceId,deviceName,emailAddress,model,operatingSystem,osVersion,complianceState,isCompliant,totalStorageBytes,freeStorageBytes,freeStoragePct,lowStorage,lastSyncDateTime
+5bf21a4b-9b35-4c89-a51b-faa4350841c5,FocusRoom2_Android_6/24/2024_12:31 PM,MeetingRoom2@assura.co.uk,NF19A1,Android,10.0,compliant,1,0,0,,0,2025-04-11T11:27:04Z
+f1ead05d-3e84-4b0d-b73f-f5c842e38dca,ADMD-F71NZ54,Annie.McIntyre@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,509121396736,300721111040,59.07,0,2025-04-11T07:53:56Z
+3946bd9a-2be4-4d51-9be5-eede1b6fafe4,Alastair’s iPhone,Alastair.Barlow@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,230251560960,83.77,0,2025-04-11T12:50:01Z
+758e384e-9f8e-4343-9315-e7fc05c165c5,ADMD-7340T14,Stuart.Megson@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,258695233536,50.85,0,2025-04-11T13:23:07Z
+0295f99a-6c7b-4f4b-bdef-e1bdad7573c1,Boardroom_Android_7/4/2023_8:20 AM,Boardroom@assura.co.uk,NF21D1,Android,10.0,noncompliant,0,0,0,,0,2024-05-13T13:33:57Z
+459e13f6-c0e7-4de2-b388-daf9afe82092,ADMD-DLZCX54,Liz.Bruce@assura.co.uk,Latitude 5450,Windows,10.0.26100.3476,compliant,1,509106716672,368590192640,72.4,0,2025-04-11T13:19:03Z
+8aebd6b9-f17b-4d8c-9b45-d2cb96404bfa,FocusRoom2_Android_6/18/2024_2:16 PM,MeetingRoom2@assura.co.uk,NF19B1,Android,10.0,compliant,1,0,0,,0,2025-04-11T07:52:24Z
+1e2d4e4d-3cdd-477d-bd9f-c70cc7458cfa,ADMD-GQ59524,lianne.taylor@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508743909376,317053730816,62.32,0,2025-04-11T08:43:12Z
+a53ac7e8-b6d4-4efb-8938-c21f750b389d,Andrew’s iPhone (3),andrew.cooper@assura.co.uk,iPhone 13,iOS,18.1.1,noncompliant,0,137438953472,46858764288,34.09,0,2024-12-27T08:03:40Z
+86d169fc-5ce2-4d4e-a375-b3cb580a8ffe,iPhone,Deborah.Connor@assura.co.uk,iPhone 16,iOS,18.0.1,compliant,1,274877906944,234889412608,85.45,0,2025-04-11T08:04:02Z
+f07f8bb6-ae4a-f24d-90a8-ace64130e734,CCMD-8M73453,unknown,Latitude 7410,Windows,10.0.22631.4460,unknown,0,0,0,,0,2025-02-03T12:52:00Z
+333577dd-1269-4fd8-8106-a6894a7fc45b,ADMD-2RPZS14,Debbie.Hall@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508741812224,355560587264,69.89,0,2025-04-04T08:04:54Z
+8d4de699-9648-4d62-985f-a020165bff6f,CCMD-93921253,jonathan.webb@assura.co.uk,Surface Pro 7+,Windows,10.0.22631.5039,compliant,1,253541482496,26135756800,10.31,0,2025-04-11T13:42:36Z
+48cc2e6b-1f94-4aff-a3e6-9b072dbdb0a0,Daniel’s iPhone,daniel.darlington@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,238341324800,86.71,0,2025-04-11T11:05:21Z
+f8911587-503e-4adb-b4d9-8f80b7c211f9,Boardroom_Android_3/31/2025_2:49 PM,Boardroom@assura.co.uk,NF21D1,Android,10.0,compliant,1,0,0,,0,2025-04-11T09:14:06Z
+b9ac12c1-d6a2-40aa-987b-8bba252ecc27,Steve’s iPhone,Steve.Brown@assura.co.uk,iPhone 13,iOS,17.5.1,noncompliant,0,137438953472,114859966464,83.57,0,2024-06-15T20:04:07Z
+b804e436-5375-4fff-8d02-8651c7962c38,iPhone (5),zoe.roberts@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,209703665664,76.29,0,2025-04-11T06:47:06Z
+1ed6687e-61dd-4e78-9338-821b2019c804,ADMD-HBVYP04,Steven.Noble@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508845621248,340244037632,66.87,0,2025-04-11T12:01:03Z
+e6510175-69e7-419b-a0b0-790aa376c487,ADMD-4F78B54,Deborah.Connor@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508567748608,367516450816,72.26,0,2025-04-03T23:07:06Z
+e670e898-907a-4875-b887-76e642c47946,Sian’s iPhone,Sian.Taylor@assura.co.uk,iPhone 13,iOS,18.1.1,noncompliant,0,137438953472,111311585280,80.99,0,2025-02-07T09:12:03Z
+f33683fe-f29a-4031-b3aa-6bf805100800,CCMD-D1F222001J,jonathan.murphy@assura.co.uk,Surface Pro 8,Windows,10.0.22631.5039,compliant,1,253763780608,114646056960,45.18,0,2025-04-10T10:27:25Z
+14ff5af4-5eb1-4ffd-803a-61f32c4cd646,ASSURA-DCFR633,anna.meredith@assura.co.uk,Latitude 7400,Windows,10.0.22631.4317,noncompliant,0,254697013248,127657836544,50.12,0,2024-11-09T18:40:13Z
+a0beb2f7-f438-4239-95ca-5ad8886791a0,CCMD-3H28FY3,martin.smith@assura.co.uk,Latitude 7440,Windows,10.0.22631.5189,compliant,1,508874981376,292828479488,57.54,0,2025-04-11T06:56:59Z
+eb6d73a1-003c-46fd-be8a-54e73eb41f3a,CCMD-FK49FY3,Hayley.Blackburn@assura.co.uk,Latitude 7440,Windows,10.0.22631.5039,compliant,1,508874981376,309542780928,60.83,0,2025-04-10T14:23:53Z
+49cc894c-7294-4217-9813-4dc7d3a1f45f,CCMD-C407FY3,Ben.Selwood@assura.co.uk,Latitude 7440,Windows,10.0.22631.5039,compliant,1,508874981376,268227837952,52.71,0,2025-04-11T08:55:39Z
+522b876b-8893-4411-a3eb-43887ccb4f85,CCMD-55925253,andrew.cooper@assura.co.uk,Surface Pro 7+,Windows,10.0.22631.5039,compliant,1,253594959872,70483181568,27.79,0,2025-04-11T14:01:21Z
+1b01ccf0-371a-479c-8f6c-38c391bdc5d4,CCMD-JD7LQ73,Tara.Jolliffe@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,253208035328,10131341312,4.0,1,2025-04-11T11:23:09Z
+b022e1e1-f039-4145-b55a-33214a35a4cf,CammysiPhone,Campbell.Halliday@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,195028844544,70.95,0,2025-04-11T08:00:06Z
+b78628af-610f-4564-a180-2cdf6380183e,ADMD-78XNTT3,ashley.seymour@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,309227159552,60.77,0,2025-04-10T15:45:19Z
+7ab1e498-35e7-4954-8b47-1f2d0a3dcf98,Sarah’s iPhone,Sarah.Corbett@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,239693987840,87.2,0,2025-04-11T09:54:02Z
+33489d4f-d547-47e3-b2ec-19d984aef562,Tara’s iPhone,Tara.Jolliffe@assura.co.uk,iPhone 16,iOS,18.0.1,compliant,1,274877906944,231056867328,84.06,0,2025-04-11T12:41:01Z
+45ba8288-1c70-4623-b887-1452e53da414,ADMD-D593HK3,Luke.Bryson@assura.co.uk,Latitude 7420,Windows,10.0.22631.4751,noncompliant,0,252960571392,184055496704,72.76,0,2025-02-12T18:08:07Z
+9e35788f-7ccd-4ecb-b3b7-0b213dd68fc3,CCMD-GHWGDK3,Sarah.Taylor@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,252853616640,74773954560,29.57,0,2025-04-11T09:22:14Z
+e2667ecd-f2d8-43f8-9462-075fc22f8326,ADMD-2BMDX54,Luke.Bryson@assura.co.uk,Latitude 5450,Windows,10.0.26100.3476,compliant,1,509106716672,342372646912,67.25,0,2025-04-09T14:07:44Z
+6c1af328-545f-47b8-bb55-013877fe4e98,Gen.Taylor_Android_3/26/2024_4:09 PM,Gen.Taylor@assura.co.uk,MP54,Android,12.0,noncompliant,0,0,0,,0,2024-04-15T13:07:25Z
+e7bc5767-cc31-4e06-80fd-fc66b0d2e3a0,ADMD-7X02T14,Liz.Bruce@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,346328924160,68.08,0,2025-04-11T13:45:15Z
+d3ded0b0-90d8-4ae1-b12b-fb4e9a7223dd,FocusRoom1_Android_6/24/2024_10:02 AM,MeetingRoom1@assura.co.uk,NF19A1,Android,10.0,compliant,1,0,0,,0,2025-04-11T11:37:35Z
+f24c152b-837f-4ea3-8db0-f61721a0392b,CCMD-C38WGK3,David.Sadler@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,252124856320,72763834368,28.86,0,2025-04-11T08:24:24Z
+34bb74a9-3504-43f0-b25b-f2a29fdd8a92,iPhone,Andrew.Llewellyn@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,244041383936,88.78,0,2025-04-11T11:02:48Z
+21e3f3d9-d94c-42af-9436-ed207a924e55,Andrew’s iPhone (3),andrew.cooper@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,187453931520,68.2,0,2025-04-11T10:17:22Z
+01ac67d8-96a8-45ed-96b1-e807c2d370c5,ADMD-8HCDX54,Jen.Fairfield@assura.co.uk,Latitude 5450,Windows,10.0.26100.3476,compliant,1,509106716672,385130430464,75.65,0,2025-04-10T13:44:00Z
+84778fd1-99fb-449c-9c2e-e4e94b27e6fc,ADMD-39Z1T14,daniel.darlington@assura.co.uk,Latitude 7440,Windows,10.0.26100.3775,compliant,1,508742860800,327669514240,64.41,0,2025-04-10T10:09:24Z
+25eb757a-3b37-499e-8a9c-e2f5c61ff7fe,iPhone,hannah.bridgewood@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,191255019520,69.58,0,2025-04-11T13:05:36Z
+6dd2b106-66b4-49cd-bb96-de303f93766d,FocusRoom2_Android_6/18/2024_12:01 PM,MeetingRoom2@assura.co.uk,NF19A1,Android,10.0,compliant,1,0,0,,0,2025-04-11T11:35:08Z
+6d0e5feb-16b4-4fe8-9e0d-d62c953c7cd7,FocusRoom1_Android_6/30/2023_3:07 PM,MeetingRoom1@assura.co.uk,NF19A1,Android,10.0,compliant,1,0,0,,0,2025-04-11T11:33:58Z
+f6ed3e89-743b-47e8-9553-d54ccc2f45f3,Work iPhone,David.Sadler@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,240138584064,87.36,0,2025-04-11T11:40:24Z
+ed3c4a75-3f73-49ec-ad50-c9e7f23260b6,ADMD-7XNVGK3,Danny.Edwards@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,253180772352,76014419968,30.02,0,2025-04-11T13:12:58Z
+52f27b39-26db-4645-9a02-c4e4b88cacff,jonathan’s iPhone (2),jonathan.murphy@assura.co.uk,iPhone 16 Pro Max,iOS,18.3.2,compliant,1,1099511627776,952101765120,86.59,0,2025-04-11T09:01:28Z
+f6a17cd5-0c0a-4fba-b75a-b416652d3fd0,Gareth’s iPhone,Gareth.Watkinson@assura.co.uk,iPhone 16,iOS,18.0.1,compliant,1,274877906944,239927820288,87.29,0,2025-04-09T08:19:32Z
+d5c1f93c-6970-47bb-ab18-aeb5d246b5db,Boardroom_Android_5/13/2024_1:54 PM,Boardroom@assura.co.uk,NF21D1,Android,10.0,noncompliant,0,0,0,,0,2025-01-22T09:23:49Z
+aafecc65-7194-4da0-9d16-a6dd54b0d958,CCMD-53925253,Sian.Taylor@assura.co.uk,Surface Pro 7+,Windows,10.0.22631.5039,compliant,1,253594959872,90136641536,35.54,0,2025-04-11T12:06:21Z
+d1645510-ec23-4449-a8fc-a094a04baec5,iPhone,Hayley.Blackburn@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,236983418880,86.21,0,2025-04-11T08:04:04Z
+d97d3ded-b8c9-4b67-88e8-9e0927584621,CCMD-65921253,James.Rimmer@assura.co.uk,Surface Pro 7+,Windows,10.0.22631.5039,compliant,1,254742102016,122472628224,48.08,0,2025-04-10T07:42:34Z
+011e6f16-b654-42a3-badc-900f0b6e3b25,Luke's iPhone,Luke.Bryson@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,191131287552,69.53,0,2025-04-11T06:32:38Z
+e24f9ed3-23f2-49d2-8b0b-8c90c25209d3,ADMD-3H4G424,Andrew.Llewellyn@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508743909376,371952975872,73.11,0,2025-04-11T13:18:09Z
+8f7208cc-5544-48e4-92f8-87a38112d9f1,David’s iPhone,david.purcell@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,218191888384,79.38,0,2025-04-11T13:00:52Z
+eb9489fe-cbb4-48f4-99be-839e7d9c6ac9,Gen’s iPhone,Gen.Taylor@assura.co.uk,iPhone 16,iOS,18.2,compliant,1,274877906944,238616051712,86.81,0,2025-04-11T12:21:59Z
+eb13057c-3874-48a7-a969-7c79f70a5ceb,CCMD-7222001J,jayne.cottam@assura.co.uk,Surface Pro 8,Windows,10.0.22631.5039,compliant,1,253460742144,117294759936,46.28,0,2025-04-10T23:01:32Z
+8f020198-68dc-4f9e-bbe1-77a9ea7ea97d,Lisa’s iPhone,lisa.grierson@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,231688110080,84.29,0,2025-04-11T13:47:01Z
+4c7086f4-61d5-4447-9c26-74af5e5369a8,Gen.Taylor_Android_2/4/2025_9:00 AM,Gen.Taylor@assura.co.uk,MP54,Android,12.0,compliant,1,0,0,,0,2025-04-11T10:21:17Z
+0db04b17-e7ea-4da9-b1fb-69deded6cb76,ADMD-G67PZ54,Megan.Leigh@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,509121396736,362775838720,71.26,0,2025-04-11T09:31:42Z
+7f2017b3-13ce-4eb7-9343-652ebe7c6169,CCMD-22ST8C3,Alastair.Barlow@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,253184966656,73592209408,29.07,0,2025-04-11T11:58:31Z
+39553471-2c00-4c01-ab10-5e33d229c61e,ADMD-5Z2RZ33,zoe.roberts@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,254985371648,91650785280,35.94,0,2025-04-11T10:42:15Z
+14976958-d91b-4d82-9434-56e7bef507e2,CCMD-HKNVGK3,Emma.Price@assura.co.uk,Latitude 7420,Windows,10.0.22631.4751,noncompliant,0,253180772352,59433287680,23.47,0,2025-02-24T19:38:42Z
+c48aded0-ead7-46c3-8352-501ff0be5353,ADMD-2HF3453,Quan.Ling.Zhang@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,498592645120,348900032512,69.98,0,2025-04-11T08:14:17Z
+b0971020-56f1-4bc3-9c42-465a8252eb76,FocusRoom1_Android_6/30/2023_3:09 PM,MeetingRoom1@assura.co.uk,NF19B1,Android,10.0,compliant,1,0,0,,0,2025-04-11T10:30:54Z
+f37ddf85-cfe7-4731-8c9c-38a80898efbc,Hannah.Bridgewood_Android_8/12/2024_7:18 AM,hannah.bridgewood@assura.co.uk,MP54,Android,12.0,noncompliant,0,0,0,,0,2024-08-12T15:33:57Z
+3cd64207-5c09-4039-b345-331dd6f18668,ADMD-DFN4Q04,Martin.Dawson@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508845621248,309518663680,60.83,0,2025-04-10T09:37:08Z
+581f12d2-ee83-4973-a612-2a0aac87373c,CCMD-HYF7Z33,Debbie.Chalcraft@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,254213619712,42722131968,16.81,0,2025-04-11T00:31:33Z
+5c991310-e832-4272-b368-1f15eb2da768,CCMD-DWJ7FY3,Emma.Price@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508874981376,301567311872,59.26,0,2025-04-11T08:35:29Z
+9a7b57f5-1c2a-4121-95bb-18bf52240948,Roger’s iPhone,roger.thompson@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,84844478464,30.87,0,2025-04-11T07:19:20Z
+a77e4850-75db-a0e0-f83e-1036f8b0f9bb,CCMD-39JL273,unknown,Latitude 7410,Windows,10.0.22631.3296,unknown,0,0,0,,0,2025-02-03T11:14:28Z
+26415e8f-948e-4ac4-9100-0d8f4b38f35b,CCMD-J9L2P53,Lucy.Froggett@assura.co.uk,Latitude 7410,Windows,10.0.22631.4890,noncompliant,0,507908194304,292471963648,57.58,0,2025-03-11T16:36:15Z
+f8642d04-a775-4194-8b6f-0835d028e6bd,ADMD-52J1T14,Jeffrey.Barnes@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,322308145152,63.35,0,2025-04-11T07:53:54Z
+82aa0161-a75e-4f92-b4c0-04a04fdce7ec,CCMD-40403753,Linda.Cunliffe@assura.co.uk,Surface Pro 7,Windows,10.0.22631.5039,compliant,1,253267804160,70237814784,27.73,0,2025-04-11T12:23:52Z
+8c2a06f5-839f-4de8-a865-fc990da5fbc0,CCMD-38CM4M3,Joanne.Cullen@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,252102836224,41740664832,16.56,0,2025-04-11T11:04:50Z
+aef30714-5bb4-45d6-a72f-f8cb3c05b99c,ADMD-GSR3HK3,debbie.barry@assura.co.uk,Latitude 7420,Windows,10.0.26100.2894,noncompliant,0,242540871680,171450564608,70.69,0,2025-02-06T13:50:18Z
+43deec32-2dc5-465a-8438-f2cac257797c,iPhone,jonathan.webb@assura.co.uk,iPhone 13,iOS,18.3.2,compliant,1,137438953472,18030264320,13.12,0,2025-04-11T08:25:09Z
+cdff0d1a-0f1d-47b2-a680-eb8387132fb8,Emma’s iPhone,Emma.Price@assura.co.uk,iPhone 16,iOS,18.2,compliant,1,274877906944,229882462208,83.63,0,2025-04-11T07:11:40Z
+4e73f291-46a6-4100-bb8a-e553ef8fceb7,CCMD-1YW2P53,roger.thompson@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,507897708544,306267029504,60.3,0,2025-04-11T13:34:36Z
+c086fafb-f7af-4821-9f2c-dee7c86af70b,Boardroom_Android_6/30/2023_6:33 PM,Boardroom@assura.co.uk,NF19A1,Android,10.0,compliant,1,0,0,,0,2025-04-11T11:34:41Z
+d4027f71-d019-415f-9301-d7cc2f2dd20c,jonathan’s iPhone (2),jonathan.murphy@assura.co.uk,iPhone 13,iOS,17.7,noncompliant,0,137438953472,32204914688,23.43,0,2024-12-02T14:04:26Z
+dd38a8d7-e0a6-43b7-9388-cf920c3e6c87,Assura iphone,Steven.Noble@assura.co.uk,iPhone 16,iOS,18.0.1,compliant,1,274877906944,249152143360,90.64,0,2025-04-11T11:40:28Z
+d64ee973-9a87-4ac0-be60-c5ea5651d011,CCMD-50304653,Martin.Dawson@assura.co.uk,Surface Pro 7+,Windows,10.0.22631.4751,noncompliant,0,253713448960,186696859648,73.59,0,2025-01-29T12:24:35Z
+9866cb31-246f-40cf-b63e-b4a4418d22c3,Gen.Taylor_Android_8/27/2024_8:30 AM,Gen.Taylor@assura.co.uk,MP54,Android,12.0,noncompliant,0,0,0,,0,2024-09-02T13:19:34Z
+6efcf504-1c18-444d-8815-b2a5cc47b512,CCMD-CSTKCB3,Andrew.Pritchard@assura.co.uk,Latitude 7410,Windows,10.0.22631.4890,compliant,1,242550308864,116802977792,48.16,0,2025-03-20T00:21:29Z
+0d12432e-e3d4-4cc1-9fe5-a9b36cef7c8e,ADMD-B2J1T14,Gabriela.Melencova@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,353200242688,69.43,0,2025-04-11T12:52:01Z
+042c43a0-b93f-48eb-9f95-a4a641aa33e4,Maria’s iPhone,Maria.Oakman@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,239447572480,87.11,0,2025-04-11T11:02:16Z
+6c9369db-3531-44a5-802e-9e30649876f4,CCMD-DTM7Z33,Natalie.Sheldon@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,254385586176,93881106432,36.91,0,2025-04-11T07:33:23Z
+7775ff15-d1ed-4d0f-865c-9624d6ee0ed2,Karen’s iPhone,Karen.Nolan@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,228018094080,82.95,0,2025-04-10T12:07:05Z
+74b46ac1-5cbd-4590-ac21-8d49d64b7591,ADMD-7106710253,Campbell.Halliday@assura.co.uk,Surface Pro 7+,Windows,10.0.22631.4751,noncompliant,0,252923871232,175321907200,69.32,0,2025-02-12T16:16:00Z
+a6fd1a3d-cf69-4aad-add4-8935da01427c,CCMD-DZ61533,Gareth.Watkinson@assura.co.uk,Latitude 7400,Windows,10.0.22631.5039,compliant,1,253447110656,105285419008,41.54,0,2025-04-03T18:52:24Z
+b68e633f-6f86-49e5-a359-843e55cf9a28,ADMD-9N6DX54,Michael.Hebden@assura.co.uk,Latitude 5450,Windows,10.0.26100.3476,compliant,1,509106716672,354432319488,69.62,0,2025-04-11T13:33:55Z
+72e1a8c4-4f92-42e4-b19b-805aa1d0bb26,ADMD-F4F1T14,Des.Kemp@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,335056732160,65.86,0,2025-04-11T03:17:20Z
+ef6a9707-cdb5-48d6-a812-78642fc03777,iPhone,Natalie.Sheldon@assura.co.uk,iPhone 16,iOS,18.2,compliant,1,274877906944,248477908992,90.4,0,2025-04-11T10:28:51Z
+12a9a4af-d0e3-412e-b48a-70aac84b95fc,ADMD-BSKFVT3,Nikki.Shaw@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,332210896896,65.29,0,2025-04-11T13:35:45Z
+7d7b2988-0536-47d5-951e-68c51008c1d4,iPhone,Debbie.Hall@assura.co.uk,iPhone 16,iOS,18.2,compliant,1,274877906944,242448596992,88.2,0,2025-04-11T05:37:51Z
+e5e4ae61-4adf-4d38-994b-6095d1e55c28,ADMD-7L41T14,ben.roberts@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,299554045952,58.88,0,2025-04-11T13:28:29Z
+5a48d924-146a-4307-8933-57f6f656f59d,iPhone,Ben.Selwood@assura.co.uk,iPhone 16,iOS,18.0.1,noncompliant,0,274877906944,251398193152,91.46,0,2025-03-07T08:37:04Z
+6bd28b4e-c830-436e-953f-517fb951716a,ADMD-49Y1T14,Sophie.Platt@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,336589750272,66.16,0,2025-04-10T15:51:00Z
+3f454f65-c0cc-4808-ad64-4d00a28a2fa8,Demirhan’s iPhone,Demirhan.Peker@assura.co.uk,iPhone 13,iOS,18.0.1,noncompliant,0,137438953472,114248646656,83.13,0,2024-10-21T22:30:53Z
+1fdc315f-f825-43bf-ba0e-3d1534e98d23,Ben’s work phone,ben.roberts@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,239379415040,87.09,0,2025-04-11T00:08:10Z
+e16f4e51-606e-4bf7-9e75-36da5d758379,CCMD-32594353,orla.ball@assura.co.uk,Surface Pro 7,Windows,10.0.22631.4751,noncompliant,0,253422993408,124735455232,49.22,0,2025-02-26T15:41:15Z
+925b3e54-3fc0-4843-b421-313c8212da36,CCMD-8HGFBC3,Sarah.Gardner@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,253066477568,14025752576,5.54,1,2025-04-10T14:08:20Z
+b9965f23-afd0-403b-8b49-2630b9161b68,CCMD-2DL2P53,Claire.Platt@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,509126639616,317700702208,62.4,0,2025-04-11T12:44:55Z
+abd760e4-2c8e-7aeb-65a6-1e3a0c2dda5b,ASSURA-BZWCR73,unknown,Latitude 7410,Windows,10.0.22631.4602,unknown,0,0,0,,0,2025-01-24T11:06:24Z
+032893be-ab48-4b67-97c5-15a14e695bf3,Katie’s iPhone,katie.leather@assura.co.uk,iPhone 16,iOS,18.2.1,compliant,1,274877906944,233157165056,84.82,0,2025-04-11T12:05:02Z
+0320518c-daa5-4b8b-887b-0db21890ed3c,ADMD-1K4G424,owen.roach@assura.co.uk,Latitude 7440,Windows,10.0.26100.3194,compliant,1,508743909376,332656541696,65.39,0,2025-04-10T12:01:57Z
+9e983643-152c-4777-89a8-0a89eba2b6a9,ADMD-5BR4Q04,Tia.Bowling@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508845621248,329441607680,64.74,0,2025-04-11T08:15:13Z
+a1ee7b8b-528c-4f6c-bfb2-0242b1819b2c,Orla’s iPhone,orla.ball@assura.co.uk,iPhone 16,iOS,18.4,compliant,1,274877906944,155535278080,56.58,0,2025-04-11T11:32:43Z
+145e744e-4729-42ee-b2cd-ff93d6b2c02c,CCMD-9M2WGK3,Sarah.Corbett@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,252251734016,9984540672,3.96,1,2025-04-11T12:59:38Z
+8314ab3b-88c2-40ad-bb72-f76f8a65ad59,CEOOffice_Android_4/9/2025_2:12 PM,CEOOffice@assura.co.uk,NF19B1,Android,10.0,compliant,1,0,0,,0,2025-04-11T09:00:14Z
+22af119e-2672-4027-8cdf-f522117e1e4d,ADMD-D440T14,Maria.Oakman@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508741812224,351484772352,69.09,0,2025-04-11T08:06:42Z
+65c9c0b4-77c1-4fcd-8b14-ebf1b27baef8,ADMD-H040T14,Hannah.Reilly@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,322985525248,63.49,0,2025-04-11T12:29:15Z
+b7574499-ea02-46f5-bf3b-e53b8bb6f674,ADMD-49XDVT3,katie.leather@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,314827603968,61.87,0,2025-04-10T13:35:35Z
+2384fd8f-77b8-4388-8962-dea0ca658dc0,Boardroom_Android_3/31/2025_2:43 PM,Boardroom@assura.co.uk,NF19A1,Android,10.0,compliant,1,0,0,,0,2025-04-11T09:19:58Z
+4d027e21-6a8b-4590-ad87-d6aacb553d04,ADMD-3DZ4BY3,hannah.bridgewood@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,285419241472,56.09,0,2025-04-11T07:33:31Z
+cd25a95e-e5ad-4ec3-afc6-d2037d35b8b7,Lianne’s iPhone,lianne.taylor@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,186239680512,67.75,0,2025-04-11T11:02:20Z
+384bcf91-96a9-4b79-afb5-c697dc6ce130,CCMD-7J6D9K3,orla.ball@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,252130099200,74434215936,29.52,0,2025-04-11T10:48:40Z
+8de1b68d-7c85-471e-86a0-bc4753a7c169,Paul’s iPhone,paul.warwick@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,173206929408,63.01,0,2025-04-11T06:38:24Z
+035acf16-954d-4d7a-92d3-afcdf25342c7,ADMD-0243921553,Lawrence.Vaughan@assura.co.uk,Surface Pro 7+,Windows,10.0.22631.5039,compliant,1,254659264512,102863208448,40.39,0,2025-04-11T08:30:05Z
+0f0119b0-538d-4b03-a23d-a8ecece35ae5,ADMD-FW74R44,owen.roach@assura.co.uk,Latitude 5550,Windows,10.0.26100.3476,compliant,1,508978790400,364006866944,71.52,0,2025-04-11T11:29:40Z
+a7b5bc8f-bce9-4eed-b681-a4e326e47a95,Boardroom_Android_7/4/2023_9:01 AM,Boardroom@assura.co.uk,NF19A1,Android,10.0,noncompliant,0,0,0,,0,2024-05-13T12:46:07Z
+0abca83b-afc7-49d1-bd30-9e3f23910266,ADMD-J6DFVT3,lisa.grierson@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,292401709056,57.46,0,2025-04-10T08:40:29Z
+f8b9fcea-b7e3-4e18-b47f-94c20c4554bb,Caoilfhionn’s iPhone,Caoilfhionn.Brereton@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,234673405952,85.37,0,2025-04-11T12:21:08Z
+3200418a-5438-4412-8f79-8d21eec60135,iPhone,Lawrence.Vaughan@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,237095616512,86.25,0,2025-04-11T12:04:40Z
+ee5813ac-8765-429e-9faf-8916c4fc4ab5,CEOOffice_Android_4/9/2025_2:13 PM,CEOOffice@assura.co.uk,NF19A1,Android,10.0,compliant,1,0,0,,0,2025-04-11T08:31:01Z
+3a1615f0-9a21-4aff-bd6a-85f885552f41,ADMD-18SNZ54,Michael.George@assura.co.uk,Latitude 7440,Windows,10.0.26100.2605,compliant,1,509121396736,345944096768,67.95,0,2025-04-11T04:13:47Z
+262b8972-da7e-4c4f-b496-80f6338c969c,CCMD-GYTRGK3,loveday.josse@assura.co.uk,Latitude 7420,Windows,10.0.22631.5039,compliant,1,252137439232,30494687232,12.09,0,2025-04-11T08:39:28Z
+eac149d7-fa53-4932-9c3e-77fb5bdbe98a,CCMD-6N57FY3,Chris.Dunham@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508874981376,339106332672,66.64,0,2025-04-11T12:05:18Z
+df3ce262-2900-4fac-ba21-732681371a08,Russell’s iPhone,russell.hall@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,201172451328,73.19,0,2025-04-11T07:16:27Z
+906f6198-9751-48e4-bb30-67f15a45c64d,iPhone,Chris.Dunham@assura.co.uk,iPhone 16,iOS,18.4,compliant,1,274877906944,226692694016,82.47,0,2025-04-11T11:52:28Z
+2fb89cc2-d419-4d2d-9082-5f8d63e6bb9d,Owen iPhone,owen.roach@assura.co.uk,iPhone 16,iOS,18.1.1,compliant,1,274877906944,203873583104,74.17,0,2025-04-11T09:39:06Z
+5355361d-7dab-46e5-96e9-57324bb20900,CCMD-53495057,Campbell.Halliday@assura.co.uk,Surface Book 2,Windows,10.0.22631.5039,compliant,1,1021725114368,859449589760,84.12,0,2025-04-11T07:28:50Z
+1849fa3a-f68a-4d9f-b1b2-519f880cf23a,Tessa’s iPhone,tessa.connor@assura.co.uk,iPhone 13,iOS,18.1.1,noncompliant,0,137438953472,94129618944,68.49,0,2025-01-16T13:08:41Z
+a29ce14f-d87d-46f5-964d-4cf9ca56fb07,Andrew’s iPhone,Andrew.Pritchard@assura.co.uk,iPhone 13,iOS,17.6.1,compliant,1,137438953472,109033029632,79.33,0,2025-04-11T06:42:27Z
+a7e02011-2f4b-490e-8629-400dafd7ce6e,ADMD-B5LZS14,Stephanie.Cave@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,394647306240,77.57,0,2025-04-11T08:03:20Z
+9d4c5ff1-46bb-4da7-8fb6-375b4a90bb50,ADMD-5DTCR73,clare.evans@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,251923529728,46898610176,18.62,0,2025-04-10T21:05:01Z
+7d6fd440-df3b-48f2-b158-31a4dad2e515,Marcus,Marcus.Richardson@assura.co.uk,iPhone 16,iOS,18.3,compliant,1,274877906944,221154115584,80.46,0,2025-04-11T07:40:19Z
+c99d3990-281c-4641-8ac0-2a04a77f65e4,Patsy’s iPhone,patsy.williams@assura.co.uk,iPhone 13,iOS,17.1.2,noncompliant,0,137438953472,112928489472,82.17,0,2024-01-09T13:18:52Z
+96d8a06d-2a8e-4126-9b37-1cab044d65a2,ADMD-41Q0T14,Caoilfhionn.Brereton@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508742860800,320658735104,63.03,0,2025-04-11T12:30:25Z
+249c8721-89a0-4a4e-8d59-1869210f02c6,RobJames iPhone,Rob.James@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,200201469952,72.83,0,2025-04-11T10:17:39Z
+cb4306f0-db11-4a86-8864-0e4b36d3bea9,iPad mini 4,Campbell.Halliday@assura.co.uk,iPad mini 4,iOS,15.8.3,noncompliant,0,137438953472,106803757056,77.71,0,2024-10-30T16:02:12Z
+49c13a83-4c57-4944-b332-0aad009c06f9,ADMD-758L4M3,anna.meredith@assura.co.uk,Latitude 7420,Windows,10.0.22631.4890,noncompliant,0,243528630272,165756796928,68.06,0,2025-02-24T12:19:35Z
+29af3de2-383e-4055-a6a5-06afe31557bb,Sarah’s iPhone,Sarah.Taylor@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,234537091072,85.32,0,2025-04-11T10:27:19Z
+b48fbdca-783f-4a56-bf5a-f9c0374c43e1,iPhone,Natalie.Sheldon@assura.co.uk,iPhone 13,iOS,18.1.1,noncompliant,0,137438953472,114491916288,83.3,0,2024-12-17T14:11:12Z
+bb0367e1-56d2-4937-9d34-f57884078390,iPhone,Jocelyn.Hickling@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,194996338688,70.94,0,2025-04-11T08:30:04Z
+1ce2c584-2980-488e-9678-ee0df9bbfb8c,CCMD-H7F65X3,gill.marnell@assura.co.uk,Latitude 7530,Windows,10.0.22631.4751,noncompliant,0,252877733888,130434465792,51.58,0,2025-04-10T14:09:59Z
+07f7e97d-3da3-464c-b635-e72effce6697,ADMD-59HG424,robert.huckle@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508743909376,306299535360,60.21,0,2025-03-26T15:25:03Z
+30dd3b8d-153d-4b08-ab48-e02f2b4774a2,Boardroom_Android_5/13/2024_1:55 PM,Boardroom@assura.co.uk,NF19A1,Android,10.0,noncompliant,0,0,0,,0,2025-01-22T09:12:39Z
+022d6d10-5702-4387-941b-db48c91b5ecd,Tessa’s iPhone,tessa.connor@assura.co.uk,iPhone 16,iOS,18.2.1,compliant,1,274877906944,227845079040,82.89,0,2025-04-11T07:25:30Z
+203946fd-8250-41ab-a788-d4f207b03b7c,ADMD-GR84Q04,russell.hall@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508845621248,304060825600,59.76,0,2025-04-11T08:01:19Z
+b2792b20-6c9b-4ed7-92a3-c92eb63cbfd7,ADMD-7T17SV3,david.purcell@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,509062676480,321836285952,63.22,0,2025-04-11T07:27:34Z
+7658c085-6fa9-48b6-85ba-c4cf73f43e0e,ADMD-B1WCC54,Jocelyn.Hickling@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,509119299584,347153104896,68.19,0,2025-04-11T09:24:35Z
+762de0b8-c899-4325-83eb-b3da2e5439ea,Alastair’s iPhone,Alastair.Barlow@assura.co.uk,iPhone 13,iOS,18.2.1,noncompliant,0,137438953472,96114573312,69.93,0,2025-01-16T15:39:46Z
+351b2444-b735-457a-97e0-ad02294acfcd,ADMD-GTB0Q04,tessa.connor@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508845621248,315664367616,62.04,0,2025-04-11T12:37:46Z
+dc662e5c-c245-4e10-b12f-a4e85ac90af0,Jayne’s iPhone (2),jayne.cottam@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,153764233216,55.94,0,2025-04-11T08:49:45Z
+59cea377-3786-4683-9afe-9f1ef0e6a92d,Ash's iPhone 16,ashley.seymour@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,182587490304,66.42,0,2025-04-11T05:46:21Z
+e51f112e-79b1-44fd-9891-974dc6d70f43,CCMD-GH1FR73,Marcus.Richardson@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,251941355520,19982712832,7.93,1,2025-04-11T08:56:12Z
+872bac8b-8728-4d04-b4af-8f1ed63a8f9a,iPhone,Des.Kemp@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,241103273984,87.71,0,2025-04-11T10:51:34Z
+b6dd04c1-6026-4243-87df-8b7f25759471,ADMD-B1PPSV3,Gen.Taylor@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,272582574080,53.57,0,2025-04-11T07:37:51Z
+6b1d1ac5-741c-40e1-986f-86727aaea392,iPhone,Sarah.Gardner@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,237717422080,86.48,0,2025-04-11T06:40:30Z
+1d847cb8-f64d-4f2c-854d-81e3ef771751,iPhone,Chris.Dunham@assura.co.uk,iPhone 13,iOS,18.1.1,noncompliant,0,137438953472,112010985472,81.5,0,2024-12-17T14:00:43Z
+470c1c5f-394b-4d9d-b457-7ab41a33b81d,iPhone,Megan.Leigh@assura.co.uk,iPhone 16,iOS,18.0.1,compliant,1,274877906944,250463911936,91.12,0,2025-04-11T08:08:11Z
+2c85b78d-0fb2-4a92-a491-772b59d574b5,Ben’s work phone,ben.roberts@assura.co.uk,iPhone 13,iOS,18.1.1,noncompliant,0,137438953472,102895714304,74.87,0,2025-01-07T11:39:23Z
+d7bfb7e1-a509-4ffc-b0e4-6f9d12819ad3,Jamss’s iPhone,James.Rimmer@assura.co.uk,iPhone 16,iOS,18.3.1,compliant,1,274877906944,226706325504,82.48,0,2025-04-10T14:04:09Z
+427d648a-0df9-4ee2-aea0-647d587f9656,CCMD-JTXLQ73,Maria.Oakman@assura.co.uk,Latitude 7410,Windows,10.0.22631.5039,compliant,1,252034678784,1112539136,0.44,1,2025-04-08T11:06:53Z
+9dbb4c6a-5857-4a8e-b258-5ac6d889d5e3,Hannah’s iPhone,Hannah.Reilly@assura.co.uk,iPhone 16,iOS,18.2,compliant,1,274877906944,241174577152,87.74,0,2025-04-11T06:43:52Z
+c4dfd61d-44b0-4dd2-992c-536cd73a48f3,ADMD-JB56BK3,Maria.Oakman@assura.co.uk,Latitude 7420,Windows,10.0.22631.4751,noncompliant,0,252227616768,171845877760,68.13,0,2025-02-03T22:18:28Z
+77336195-6360-460a-9746-4e4bba62d6c5,MDiPhone16,Martin.Dawson@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,178844073984,65.06,0,2025-04-11T11:36:42Z
+f9a38424-8627-4bbc-8e35-460f02a41fb2,ADMD-17MLTT3,Karen.Nolan@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,333527908352,65.55,0,2025-04-11T07:12:35Z
+efaf1ce8-afe7-475c-aa11-3c5e484fa421,Sian’s iPhone,Sian.Taylor@assura.co.uk,iPhone 16,iOS,18.3.2,compliant,1,274877906944,237025361920,86.23,0,2025-04-11T07:33:07Z
+6cbc6331-9a84-474f-8da9-34362be305d1,ADMD-G409CY3,paul.warwick@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,364544786432,71.64,0,2025-04-11T05:30:01Z
+dc961343-4a01-4610-bafa-2f911e46872c,ADMD-CJFKSV3,Rob.James@assura.co.uk,Latitude 7440,Windows,10.0.26100.3476,compliant,1,508844572672,336846651392,66.2,0,2025-04-11T12:41:31Z
+9da34bab-c7d5-4c68-b0cb-205edfa9a250,Boardroom_Android_1/22/2025_11:01 AM,Boardroom@assura.co.uk,NF21D1,Android,10.0,compliant,1,0,0,,0,2025-03-27T03:05:14Z
+58eaf215-a6cc-4004-815a-1a0fa225267c,CCMD-Z23143FB,asim.shahzad@assura.co.uk,Surface Laptop 5,Windows,10.0.26100.3476,compliant,1,508610740224,331135057920,65.11,0,2025-04-10T09:02:55Z
+82ab4a59-a8e0-4a81-8ed7-13b09012e923,Gill.Marnell_Android_1/3/2024_11:04 AM,gill.marnell@assura.co.uk,MP54,Android,9.0,noncompliant,0,0,0,,0,2024-02-13T11:25:00Z
+7edd8cee-45da-49d5-98a2-0b2eb7a7ccdb,iPhone,Annie.McIntyre@assura.co.uk,iPhone 16,iOS,18.0.1,compliant,1,274877906944,247302455296,89.97,0,2025-04-11T06:41:27Z
+140e3d98-fa89-450b-8081-06c24ba0c79c,Boardroom_Android_1/22/2025_11:03 AM,Boardroom@assura.co.uk,NF19A1,Android,10.0,compliant,1,0,0,,0,2025-03-27T03:17:12Z

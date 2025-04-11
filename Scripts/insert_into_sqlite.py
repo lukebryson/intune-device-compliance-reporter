@@ -1,14 +1,18 @@
 # insert_into_sqlite.py
-
+from datetime import datetime
 import json
 import sqlite3
+
+# Defining the database name with a timestamp to avoid overwriting previous databases
+timestamp = datetime.now().strftime("%Y%m%d_%H%M")
+db_name = f"Database/intune_devices_{timestamp}.db"
 
 # Load the cleaned device data
 with open("cleaned_devices.json", "r") as file:
     devices = json.load(file)
 
 # Connect to the SQLite database (or create it)
-conn = sqlite3.connect("intune_devices.db")
+conn = sqlite3.connect(db_name)
 cursor = conn.cursor()
 
 # Create the table (if it doesn't already exist)
