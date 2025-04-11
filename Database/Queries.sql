@@ -26,14 +26,23 @@ WHERE lowStorage = 1 AND operatingSystem = 'Windows' AND date(lastSyncDateTime) 
 SELECT
     emailAddress AS "User",
     deviceName AS "Device Name",
-    Model AS "Model",
+    Model AS "Model"
 FROM device_compliance
 WHERE isCompliant = 0 AND operatingSystem = 'Windows' AND date(lastSyncDateTime) >= date('now', '-3 months');
 
--- Query to get iOS devices with low storage
+-- Query to get iOS devices with low storage that have checked in within the last 3 months
+SELECT
+    emailAddress AS "User",
+    deviceName AS "Device Name",
+    freeStoragePct AS "Free Storage (%)"
+FROM device_compliance
+WHERE model != "iPhone 13" AND lowStorage = 0 AND operatingSystem = 'iOS' AND date(lastSyncDateTime) >= date('now', '-3 months');
 
 
--- Query to get iOS devices that are out-of-date
-
-
--- Query to get iOS devices that are not compliant
+-- Query to get iOS devices that are not compliant and have checked in within the last 3 months
+SELECT
+    emailAddress AS "User",
+    deviceName AS "Device Name",
+    Model AS "Model"
+FROM device_compliance
+WHERE isCompliant = 0 AND operatingSystem = 'iOS' AND date(lastSyncDateTime) >= date('now', '-3 months');
