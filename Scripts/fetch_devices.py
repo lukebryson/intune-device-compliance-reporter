@@ -18,6 +18,7 @@ def transform_device(device):
         "deviceId": device.get("id"),
         "deviceName": device.get("deviceName") or "unknown",
         "emailAddress": device.get("emailAddress") or "unknown",
+        "model": device.get("model"),
         "operatingSystem": device.get("operatingSystem"),
         "osVersion": device.get("osVersion"),
         "complianceState": device.get("complianceState"),

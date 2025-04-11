@@ -17,6 +17,7 @@ CREATE TABLE IF NOT EXISTS device_compliance (
     deviceId TEXT PRIMARY KEY,
     deviceName TEXT,
     emailAddress TEXT,
+    model TEXT,
     operatingSystem TEXT,
     osVersion TEXT,
     complianceState TEXT,
@@ -33,16 +34,17 @@ CREATE TABLE IF NOT EXISTS device_compliance (
 for device in devices:
     cursor.execute(f"""
     INSERT OR REPLACE INTO device_compliance (
-        deviceId, deviceName, emailAddress, operatingSystem, osVersion,
+        deviceId, deviceName, emailAddress, model, operatingSystem, osVersion,
         complianceState, isCompliant, totalStorageBytes, freeStorageBytes,
         freeStoragePct, lowStorage, lastSyncDateTime
     ) VALUES (
-        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
     );
     """, (
         device["deviceId"],
         device["deviceName"],
         device["emailAddress"],
+        device["model"],
         device["operatingSystem"],
         device["osVersion"],
         device["complianceState"],
