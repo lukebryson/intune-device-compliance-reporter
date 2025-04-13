@@ -34,48 +34,4 @@ device_compliance.csv
 InTune Device Compliance Reporter.docx
 
 # Ignore Screenshots folder
-Screenshots/Azure/1.png
-Screenshots/Azure/11.png
-Screenshots/Azure/12.png
-Screenshots/Azure/13.png
-Screenshots/Azure/2.png
-Screenshots/Azure/3.png
-Screenshots/Azure/4.png
-Screenshots/Azure/5.png
-Screenshots/Azure/6.png
-Screenshots/Azure/7.png
-Screenshots/Azure/8.png
-Screenshots/Azure/9.png
-Screenshots/Azure/Client Secret.png
-Screenshots/Design/.env file.png
-Screenshots/Design/.gitignore 2.png
-Screenshots/Design/.gitignore file.png
-Screenshots/Design/.venv activation.png
-Screenshots/Design/JSON Output.png
-Screenshots/Design/New SQL Query.png
-Screenshots/Design/New Text File.png
-Screenshots/Design/Total Devices Query 2.png
-Screenshots/Design/Total Devices Query.png
-Screenshots/Design/Virtual Environment Path.png
-Screenshots/Design/Virtual Environment pop-up.png
-Screenshots/Design/Visual Studio Annotated.png
-Screenshots/Design/Visual Studio.png
-Screenshots/Design/intune_devices.db.png
-Screenshots/Design/pip install python-dotenv.png
-Screenshots/Emails/Dan.png
-Screenshots/Emails/Debbie.png
-Screenshots/InTune/CSV File.png
-Screenshots/InTune/Columns.png
-Screenshots/InTune/Devices - All Devices.png
-Screenshots/InTune/Exporting Data.png
-Screenshots/InTune/Windows & iOS.png
-Screenshots/InTune/Zip File Downloaded.png
-Screenshots/Initial Setup/Connecting Local Folder to Repository.png
-Screenshots/Initial Setup/Create a new repository.jpeg
-Screenshots/Initial Setup/GitHub Repo.png
-Screenshots/Initial Setup/GitHub UI.jpeg
-Screenshots/Initial Setup/Local Folder Structure.png
-Screenshots/Initial Setup/Local Folders connected to GitHub.jpeg
-Screenshots/Initial Setup/Open root folder in Terminal.png
-Screenshots/Initial Setup/README File.png
-Screenshots/Initial Setup/Repository created.jpeg
+Screenshots/
