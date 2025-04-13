@@ -32,3 +32,6 @@ device_compliance.csv
 
 # Ignore documentation files
 InTune Device Compliance Reporter.docx
+
+# Ignore Screenshots folder
+Screenshots/
