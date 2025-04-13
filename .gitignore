@@ -29,3 +29,6 @@ Screenshots/
 *.db
 *.db-journal
 *.sqlite3
+
+# Ignore report outputs (they contain sensitive information)
+Reports/
