@@ -31,4 +31,4 @@ Screenshots/
 *.sqlite3
 
 # Ignore report outputs (they contain sensitive information)
-Reports/
+/Reports
