@@ -15,6 +15,4 @@ This project was created as part of my Level 4 Software Engineer apprenticeship 
 - Python
 - SQLite
 - Microsoft Graph API
-- Pandas & Matplotlib (for data analysis & reporting)
-
 
