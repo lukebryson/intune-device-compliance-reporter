@@ -22,9 +22,6 @@ Thumbs.db
 # Ignore device output
 cleaned_devices.json
 
-# Ignore screenshots
-Screenshots/
-
 # Ignore all SQLite database files
 *.db
 *.db-journal

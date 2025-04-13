@@ -46,3 +46,9 @@ SELECT
     Model AS "Model"
 FROM device_compliance
 WHERE isCompliant = 0 AND operatingSystem = 'iOS' AND date(lastSyncDateTime) >= date('now', '-3 months');
+
+.mode csv
+.headers on
+.output device_compliance.csv
+SELECT * FROM device_compliance;
+.output stdout

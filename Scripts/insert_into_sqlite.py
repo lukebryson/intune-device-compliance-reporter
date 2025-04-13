@@ -65,3 +65,23 @@ conn.commit()
 conn.close()
 
 print(f"✅ {len(devices)} records inserted into device_compliance table.")
+
+
+# test_transform_device.py
+
+from Scripts.fetch_devices import transform_device
+
+def test_low_storage_flag():
+    device = {
+        "id": "123",
+        "deviceName": "Test Device",
+        "emailAddress": "test@example.com",
+        "operatingSystem": "Windows",
+        "osVersion": "10.0.22631.3447",
+        "complianceState": "compliant",
+        "totalStorageSpaceInBytes": 100000000,
+        "freeStorageSpaceInBytes": 5000000,
+        "lastSyncDateTime": "2024-12-31T10:30:00Z"
+    }
+    result = transform_device(device)
+    assert result["lowStorage"] == True
