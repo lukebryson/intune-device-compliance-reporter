@@ -32,3 +32,6 @@ Screenshots/
 
 # Ignore report outputs (they contain sensitive information)
 device_compliance.csv
+
+# Ignore documentation files
+Docs/
